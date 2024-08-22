@@ -5,6 +5,8 @@
 
 This repository contains a comprehensive analysis aimed at predicting diabetes outcomes using various machine learning models. The analysis involves data preprocessing, exploratory data analysis, and the application of multiple classification models to determine the most accurate predictor for diabetes.
 
+Hugging Face Link: https://huggingface.co/spaces/utomon/PredictionDiabetes
+
 ## Libraries Used
 
 The following Python libraries were used in this project:
