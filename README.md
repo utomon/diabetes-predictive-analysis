@@ -60,27 +60,3 @@ Multiple machine learning models were trained and evaluated on the dataset:
 
 ### Conclusion
 After extensive testing and cross-validation, it was determined that the **Support Vector Machine (SVM)** model outperformed the others in terms of accuracy, precision, recall, and F1-score, making it the best model for predicting diabetes outcomes in this dataset.
-
-## Usage
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/diabetes-predictive-analysis.git
-    ```
-2. Navigate to the repository directory:
-    ```bash
-    cd diabetes-predictive-analysis
-    ```
-3. Open the notebook in JupyterLab or Jupyter Notebook:
-    ```bash
-    jupyter lab
-    ```
-4. Run the cells sequentially to reproduce the results.
-
-## Author
-
-David Wilson Nugroho Utomo - [GitHub Profile](https://github.com/yourusername)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
